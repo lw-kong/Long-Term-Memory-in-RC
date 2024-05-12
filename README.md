@@ -1,6 +1,6 @@
-# Reservoir-computing-based associative memory of complex dynamical patterns
+# Reservoir-computing based associative memory and itinerancy for complex dynamical attractors
 
-This is the repository for our preprint titled [Reservoir-computing based associative memory for complex dynamical attractors](https://www.researchsquare.com/article/rs-3454804/v1).
+This is the repository for our preprint titled [Reservoir-computing based associative memory and itinerancy for complex dynamical attractors](https://www.researchsquare.com/article/rs-3454804/v1).
 
 ## Data
 This work's training and testing data come from many three-dimensional time series of chaotic or periodic attractors. The data files are shared in [this Google Drive Folder](https://drive.google.com/drive/folders/16sGvbCX4RUWLDp4v6FlXrxR0e8ZCRLgP?usp=sharing), or you may generate the data yourself by the codes we used to generate them (shared in the Data folder of this GitHub repository).
