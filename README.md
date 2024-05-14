@@ -1,5 +1,7 @@
 # Reservoir-computing based associative memory and itinerancy for complex dynamical attractors
 
+[![DOI](https://zenodo.org/badge/533082503.svg)](https://zenodo.org/doi/10.5281/zenodo.11190185)
+
 This is the repository for our preprint titled [Reservoir-computing based associative memory and itinerancy for complex dynamical attractors](https://www.researchsquare.com/article/rs-3454804/v1). We use two different approaches - index-based reservoir computer (RC) and index-free RC - to have multifunctional recurrent neural networks with complex dynamical long-term memory states.
 
 ## Training Data and RC Weights
